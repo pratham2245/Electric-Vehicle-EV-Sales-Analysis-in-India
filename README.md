@@ -1,5 +1,8 @@
 # Electric-Vehicle-EV-Sales-Analysis-in-India
 
+<img width="335" height="234" alt="image" src="https://github.com/user-attachments/assets/88ccfafa-c11f-40f8-8cba-670bf9926eca" />
+
+
 This project analyzes Electric Vehicle (EV) sales data in India to understand adoption trends, regional performance, and vehicle category contribution.  
 The analysis follows a **professional data analyst workflow**, focusing on trends, KPIs, and business insights.
 
